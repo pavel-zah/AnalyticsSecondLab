@@ -23,7 +23,7 @@
 1. Клонируйте репозиторий:
 ```bash
 git clone <repository-url>
-cd Analytics\ Second\ lab
+cd AnalyticsSecondLab
 ```
 
 2. Создайте виртуальное окружение:
